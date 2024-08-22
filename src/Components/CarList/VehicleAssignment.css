@@ -1,0 +1,100 @@
+/* Container for the entire page */
+.assign-vehicle-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    min-height: 100vh;
+    width: 100%;
+    box-sizing: border-box; /* Ensures padding does not affect width */
+  }
+  
+  /* Form styling */
+  .assign-vehicle-form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px;
+    box-sizing: border-box; /* Ensures padding does not affect width */
+    margin: 0px 200px;
+    align-items: center;
+
+  }
+  
+  /* Title of the page */
+  .assign-vehicle-container h2 {
+    text-align: center;
+    font-size: 24px;
+    margin: 10px 200px;
+    color:  #10757a;
+    text-align: center;
+  }
+  
+  /* Form group for spacing between label and input */
+  .form-group {
+    margin: 0px 200px;
+    width: 50%;
+  }
+
+
+  
+  /* Label styling */
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    padding: 15px;
+
+  }
+  
+  /* Dropdown styling */
+  .form-group select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  /* Error message styling */
+  .error-message {
+    color: #d9534f;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  /* Submit button styling */
+  .submit-button {
+    background-color: #10757a;
+    color: #fff;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    display: block;
+    margin: 20px auto 0; /* Center the button horizontally */
+  }
+  
+  .submit-button:hover {
+    background-color: #0e6b66;
+  }
+  
+  /* Link to navigate back */
+  .back-link {
+    display: block;
+    margin-top: 20px;
+    color: #10757a;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .back-link:hover {
+    text-decoration: underline;
+  }
+  

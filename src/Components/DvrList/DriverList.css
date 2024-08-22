@@ -1,0 +1,96 @@
+/* Container for the search bar and button alignment */
+.search-assign-container {
+    display: flex;
+    align-items: center;
+    margin: 50px 0px;
+    gap: 250px;
+    height: 20px;
+    width: 80%;
+  }
+  
+  /* Styling for the search container */
+  .search-container {
+    margin-top: 65px;
+    margin-bottom: 5px;
+    text-align: center;
+    display: flex;
+    width: 60%;
+  }
+  
+  .search-container input {
+    padding: 8px;
+    width: 100%;
+    max-width: 1000px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  /* Styling for the assign vehicle button container */
+  .assign-button-container {
+    margin-top: 40px;
+    height: 20px;
+  }
+  
+  /* Styling for the assign vehicle button */
+  .assign-button {
+    background-color: #10757a;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .assign-button:hover {
+    background-color:  #10757a;
+  }
+  
+  /* Driver list container */
+  .driver-list-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px auto;
+  }
+  
+  
+  
+  /* Table styling */
+  table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #149097b1;
+    color: white;
+    font-family: merriweather;
+    font-weight: lighter;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  tr:hover {
+    background-color: #eaeaea;
+  }
+  
+  /* Action button styling */
+  .action-btn > button {
+    color: #10757a;
+    background-color: white;
+    font-size: larger;
+  }
+  

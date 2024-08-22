@@ -1,0 +1,69 @@
+{
+    "vehicles": [
+      {
+        "vehicleId": "V001",
+        "makeModel": "Toyota Camry",
+        "licensePlate": "ABC1234",
+        "year": 2019,
+        "color": "White",
+        "type": "Sedan"
+      },
+      {
+        "vehicleId": "V002",
+        "makeModel": "Honda Accord",
+        "licensePlate": "XYZ5678",
+        "year": 2021,
+        "color": "Black",
+        "type": "Sedan"
+      },
+      {
+        "vehicleId": "V003",
+        "makeModel": "Ford F-150",
+        "licensePlate": "LMN8901",
+        "year": 2020,
+        "color": "Blue",
+        "type": "Truck"
+      },
+      {
+        "vehicleId": "V004",
+        "makeModel": "Chevrolet Tahoe",
+        "licensePlate": "GHI2345",
+        "year": 2018,
+        "color": "Silver",
+        "type": "SUV"
+      },
+      {
+        "vehicleId": "V005",
+        "makeModel": "Tesla Model S",
+        "licensePlate": "JKL6789",
+        "year": 2022,
+        "color": "Red",
+        "type": "Sedan"
+      },
+      {
+        "vehicleId": "V006",
+        "makeModel": "Jeep Wrangler",
+        "licensePlate": "OPQ1234",
+        "year": 2021,
+        "color": "Green",
+        "type": "SUV"
+      },
+      {
+        "vehicleId": "V007",
+        "makeModel": "BMW X5",
+        "licensePlate": "RST5678",
+        "year": 2019,
+        "color": "Gray",
+        "type": "SUV"
+      },
+      {
+        "vehicleId": "V008",
+        "makeModel": "Mercedes-Benz E-Class",
+        "licensePlate": "UVW8901",
+        "year": 2020,
+        "color": "Black",
+        "type": "Sedan"
+      }
+    ]
+  }
+  

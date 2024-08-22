@@ -1,0 +1,67 @@
+/* Existing styles */
+
+.dvr-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  font-family: Nunito;
+}
+
+.dvr-heading {
+  padding-top: 70px;
+  font-family: Montserrat;
+  font-size: 25px;
+}
+
+.dvr-flex {
+  margin-bottom: 15px;
+  width: 100%;
+  max-width: 500px; /* Optional: limits the width of the form */
+  display: flex;
+  align-items: center; /* Aligns items vertically */
+}
+
+.dvr-flex p {
+  margin: 0;
+  font-size: 16px;
+  width: 50%; /* Adjust width as needed */
+  text-align: left; /* Aligns text to the right */
+  padding-right: 10px; /* Space between label and input */
+}
+
+input,
+select { /* Apply the same styles to both input and select */
+  width: 70%; /* Adjust width to balance with label */
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-family: Nunito; /* Ensure font consistency */
+  font-size: 16px; /* Match font size of input */
+}
+
+button {
+  background-color: #10757a;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: Montserrat;
+}
+
+button:hover {
+  background-color: #0b5559;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  margin-bottom: 20px;
+}
