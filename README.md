@@ -1,9 +1,9 @@
 <<<<<<< HEAD
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-ap).
 ## Demo Video
-This is a demo video for the project made so far (https://drive.google.com/drive/u/2/my-drive)
+This is a demo video for the project made so far (https://drive.google.com/drive/u/2/folders/15Y8RwWYJs3zJ--d2Z-VEiEMkvFeR_dt4)
 
 ## Available Scripts
 
